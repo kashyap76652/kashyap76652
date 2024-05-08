@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @kashyap76652
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning python 
+- 👋 Hi, I’m @kashyap_harsora
+- 👀 I’m interested in web development 
 - 💞️ I’m looking for good internship on MNC.
-- 📫 you can communicate with me with this following link .
 
 
 <!---
